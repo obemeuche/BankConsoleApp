@@ -63,7 +63,6 @@ class BankAccount {
         }
     }
 
-    // method for getting user inputs
     void showMenu () {
         // Initializing a char variable
         char option = '\0';
