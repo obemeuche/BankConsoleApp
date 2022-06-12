@@ -5,8 +5,6 @@ import java.util.Scanner;
 public class ConsoleApp {
     public static void main(String[] args) {
 
-        // Scanner scanner = new Scanner(System.in);
-
         // Getting integer values from the user
         // System.out.println("Enter a number");
         // int a = scanner.nextInt();
