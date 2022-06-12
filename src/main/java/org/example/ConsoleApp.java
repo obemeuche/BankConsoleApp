@@ -5,15 +5,6 @@ import java.util.Scanner;
 public class ConsoleApp {
     public static void main(String[] args) {
 
-        // Getting integer values from the user
-        // System.out.println("Enter a number");
-        // int a = scanner.nextInt();
-        // System.out.println("value = " + a);
-
-        // Getting a character from the user
-        // char c = scanner.next().charAt(0); // getting the first character at index 0
-        // System.out.println("value = " + c);
-
         BankAccount bankAccount = new BankAccount("Uche", "101");
         bankAccount.showMenu();
     }
